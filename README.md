@@ -1,5 +1,5 @@
 # hello-world
-This repository is for listing all of my work, linking it, an describing it at the highest level.
+This repository is for listing all of my work, linking it, and describing it at the highest level.
 
 I am building:
 1. A robot rover.  Tracked chassis, Raspberry Pi 5, ROS2.
